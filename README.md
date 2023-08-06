@@ -1,2 +1,2 @@
-# bash_scripting
-Bash scripts I created while studying for the CompTIA Linux+.
+# Bash Scripts
+This repo contains the bash scripts I created while studying for the CompTIA Linux+.
