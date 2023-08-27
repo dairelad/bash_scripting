@@ -5,4 +5,4 @@ echo -e "\nenter the path to directory"
 read the_path
 
 echo -e "\nyour path has the following files and folders: "
-ls $the_path#!/bin/bashecho "Today is " `date`
+ls $the_path
